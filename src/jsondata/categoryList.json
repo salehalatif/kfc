@@ -1,0 +1,161 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "Everyday Value",
+        "category_images": "afc4e8b0-ff99-11ed-8640-872ee63b5da0-Krunch-2023-05-31095826.png",
+        "product_id": [
+            {
+                "product_id": 1
+            },
+            {
+                "product_id": 2
+            },
+            {
+                "product_id": 3
+            },
+            {
+                "product_id": 4
+            },
+            {
+                "product_id": 5
+            }
+        ],
+        "product_items": 5
+    },
+    {
+        "category_id": 2,
+        "category_name": "Ala-Carte-&-Combos",
+        "category_images": "afc4e8b0-ff99-11ed-8640-872ee63b5da0-alacart-2023-05-31095826.png",
+        "product_id": [
+            {
+                "product_id": 7
+            },
+            {
+                "product_id": 8
+            },
+            {
+                "product_id": 9
+            },
+            {
+                "product_id": 10
+            },
+            {
+                "product_id": 6
+            }
+        ],
+        "product_items": 5
+    },
+    {
+        "category_id": 3,
+        "category_name": "Signature-Boxes",
+        "category_images": "afc536d0-ff99-11ed-a006-17c81341cbe8-Signaturebox-2023-05-31095826.png",
+        "product_id": [],
+        "product_items": 0
+    },
+    {
+        "category_id": 4,
+        "category_name": "Sharing",
+        "category_images": "afc4e8b0-ff99-11ed-8640-872ee63b5da0-Sharing-2023-05-31095826.png",
+        "product_id": [],
+        "product_items": 0
+    },
+    {
+        "category_id": 5,
+        "category_name": "Snacks-&-Beverages",
+        "category_images": "afc4e8b0-ff99-11ed-8640-872ee63b5da0-Snacks-2023-05-31095826.png",
+        "product_id": [
+            {
+                "product_id": 29
+            },
+            {
+                "product_id": 37
+            },
+            {
+                "product_id": 13
+            },
+            {
+                "product_id": 21
+            },
+            {
+                "product_id": 30
+            },
+            {
+                "product_id": 38
+            },
+            {
+                "product_id": 14
+            },
+            {
+                "product_id": 22
+            },
+            {
+                "product_id": 23
+            },
+            {
+                "product_id": 31
+            },
+            {
+                "product_id": 15
+            },
+            {
+                "product_id": 24
+            },
+            {
+                "product_id": 32
+            },
+            {
+                "product_id": 16
+            },
+            {
+                "product_id": 25
+            },
+            {
+                "product_id": 33
+            },
+            {
+                "product_id": 17
+            },
+            {
+                "product_id": 26
+            },
+            {
+                "product_id": 34
+            },
+            {
+                "product_id": 18
+            },
+            {
+                "product_id": 27
+            },
+            {
+                "product_id": 35
+            },
+            {
+                "product_id": 11
+            },
+            {
+                "product_id": 19
+            },
+            {
+                "product_id": 28
+            },
+            {
+                "product_id": 36
+            },
+            {
+                "product_id": 12
+            },
+            {
+                "product_id": 20
+            }
+        ],
+        "product_items": 28
+    },
+    {
+        "category_id": 6,
+        "category_name": "Midnight (Start at 12 am)",
+        "category_images": "afc49a90-ff99-11ed-aad1-a133693e27ae-Midnight-2023-05-31095826.png",
+        "product_id": [],
+        "product_items": 0
+    }
+]
