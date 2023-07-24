@@ -1,20 +1,13 @@
 import React from 'react';
-import './App.css';
-
-//import HomePage from "./pages/HomePage";
-import MenuPage from "./pages/MenuPage";
+//import './App.css';
+import MenuPage from './data/MenuPage';
 
 function App() {
-
-  return(
+  return (
     <>
-    <div className="CategoryPage">
-     {/* <HomePage /> */}
-     {/* <MenuPage age={age}/> */}
-     <MenuPage />
-     </div>
+      <MenuPage />
     </>
-  )
+  );
 }
 
 export default App;
